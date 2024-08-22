@@ -7,9 +7,9 @@
 - ⚡ Fun fact: ...
 - 🛠  Languages and Tools :
 
-  
-![PostgreSQL](https://github.com/user-attachments/assets/8146d666-a1e7-4e36-910b-e159c6526db2)
-![Postman](https://github.com/user-attachments/assets/888c365f-28a1-4219-b48d-c1f0cd34f624)
+![Docker](https://github.com/user-attachments/assets/21ebdadd-2b87-43c4-83cb-7151d477b018)
+![Postman](https://github.com/user-attachments/assets/73bee51f-85f2-46f9-a143-b24250da383b)
+![PostgreSQL](https://github.com/user-attachments/assets/0eae9d25-2571-41fe-86f2-32b62df069ed)
 
 
 
