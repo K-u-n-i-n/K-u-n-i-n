@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @K-u-n-i-n
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🛠  Languages and Tools :
+
+  
+![PostgreSQL](https://github.com/user-attachments/assets/8146d666-a1e7-4e36-910b-e159c6526db2)
+![Postman](https://github.com/user-attachments/assets/888c365f-28a1-4219-b48d-c1f0cd34f624)
+
+
+
+<!---
+K-u-n-i-n/K-u-n-i-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
