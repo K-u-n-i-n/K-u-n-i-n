@@ -16,6 +16,7 @@
 ![Pytest](https://github.com/user-attachments/assets/42252b38-f7b9-46e8-a150-fbe51ed4e2b1)
 ![Docker](https://github.com/user-attachments/assets/02ae5614-3d01-42a8-8e5e-70e46085d6ab)
 ![CI](https://github.com/user-attachments/assets/db5a02bd-c1f4-4127-8b36-bb3aa44a2034)
+![GitHub](https://github.com/user-attachments/assets/3d752b7f-7bd5-49a5-a293-5527f86032b2)
 
 
 
