@@ -17,6 +17,8 @@
 ![Docker](https://github.com/user-attachments/assets/02ae5614-3d01-42a8-8e5e-70e46085d6ab)
 ![CI](https://github.com/user-attachments/assets/db5a02bd-c1f4-4127-8b36-bb3aa44a2034)
 ![GitHub](https://github.com/user-attachments/assets/3d752b7f-7bd5-49a5-a293-5527f86032b2)
+![Visual_Studio_Code](https://github.com/user-attachments/assets/beb8f0cb-bbc6-44b4-9621-ff3b682f7401)
+![Notion](https://github.com/user-attachments/assets/e96a2f1b-cf94-4338-91c1-2e6aeac9f40f)
 
 
 
