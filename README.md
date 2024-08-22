@@ -6,10 +6,19 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🛠  Languages and Tools :
+  
+![Python](https://github.com/user-attachments/assets/d3233e33-244c-4f91-b69f-ba7020f917c7)
+![Django](https://github.com/user-attachments/assets/07897537-7b97-4c35-acec-3c4e50b0b67c)
+![REST API](https://github.com/user-attachments/assets/e525f49d-3bf1-476f-8e81-525f79bb326e)
+![PostgreSQL](https://github.com/user-attachments/assets/d6f31be9-b55a-4ef8-8ba8-c4843d89db59)
+![Postman](https://github.com/user-attachments/assets/c89362a3-110a-48e7-929f-14ac4a8b37f8)
+![sql](https://github.com/user-attachments/assets/ab4d6988-f9b6-4b28-a0ba-360941c45bc0)
+![Pytest](https://github.com/user-attachments/assets/42252b38-f7b9-46e8-a150-fbe51ed4e2b1)
+![Docker](https://github.com/user-attachments/assets/02ae5614-3d01-42a8-8e5e-70e46085d6ab)
+![CI](https://github.com/user-attachments/assets/db5a02bd-c1f4-4127-8b36-bb3aa44a2034)
 
-![Docker](https://github.com/user-attachments/assets/21ebdadd-2b87-43c4-83cb-7151d477b018)
-![Postman](https://github.com/user-attachments/assets/73bee51f-85f2-46f9-a143-b24250da383b)
-![PostgreSQL](https://github.com/user-attachments/assets/0eae9d25-2571-41fe-86f2-32b62df069ed)
+
+
 
 
 
