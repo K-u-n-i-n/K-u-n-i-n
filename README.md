@@ -9,7 +9,7 @@ The developer of the python backend
 ### Skills
   
 ![Python](https://github.com/user-attachments/assets/d3233e33-244c-4f91-b69f-ba7020f917c7)
-![Django](https://github.com/user-attachments/assets/07897537-7b97-4c35-acec-3c4e50b0b67c)
+![django2](https://github.com/user-attachments/assets/c370c388-b1c3-4e48-92d7-6cb967b3554b)
 ![REST API](https://github.com/user-attachments/assets/e525f49d-3bf1-476f-8e81-525f79bb326e)
 ![PostgreSQL](https://github.com/user-attachments/assets/d6f31be9-b55a-4ef8-8ba8-c4843d89db59)
 ![sql](https://github.com/user-attachments/assets/ab4d6988-f9b6-4b28-a0ba-360941c45bc0)
