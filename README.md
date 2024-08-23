@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 The developer of the python backend
 -----------------------------------
 
-* 🧠 I'm learning Яндекс Практикум
+* 🧠 I'm learning Yandex Practicum
 
 ### Skills
   
@@ -15,12 +15,16 @@ The developer of the python backend
 ![sql](https://github.com/user-attachments/assets/ab4d6988-f9b6-4b28-a0ba-360941c45bc0)
 ![Pytest](https://github.com/user-attachments/assets/42252b38-f7b9-46e8-a150-fbe51ed4e2b1)
 ![Docker](https://github.com/user-attachments/assets/02ae5614-3d01-42a8-8e5e-70e46085d6ab)
+
+
 ![CI](https://github.com/user-attachments/assets/db5a02bd-c1f4-4127-8b36-bb3aa44a2034)
+![git](https://github.com/user-attachments/assets/4f2f79e7-1717-4bc5-b547-1b798793a09d)
 ![GitHub](https://github.com/user-attachments/assets/3d752b7f-7bd5-49a5-a293-5527f86032b2)
 ![Postman](https://github.com/user-attachments/assets/c89362a3-110a-48e7-929f-14ac4a8b37f8)
 ![Visual_Studio_Code](https://github.com/user-attachments/assets/beb8f0cb-bbc6-44b4-9621-ff3b682f7401)
 ![Notion](https://github.com/user-attachments/assets/e96a2f1b-cf94-4338-91c1-2e6aeac9f40f)
 ![Linux](https://github.com/user-attachments/assets/8c14448e-739c-46a0-baa2-da9fd99730d5)
+
 
 
 <b>:fire: My GitHub Stats</b>
